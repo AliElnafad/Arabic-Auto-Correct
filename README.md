@@ -50,6 +50,7 @@ in this part user enter his sentence then our system find all words in this sent
 4- User enter his sentence
 
 Secondely : Corrector
+
 in this part we build some functions to find all suggestions for Misspelled words then we get optimal suggestion word by its probability 
 
 
